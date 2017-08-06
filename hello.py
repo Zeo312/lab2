@@ -1,5 +1,3 @@
-print( "Hello,git!")
-
 def fizzbuzz(n):
 	i=1
 	while(i<=n):
