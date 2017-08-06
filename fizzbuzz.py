@@ -9,8 +9,8 @@ def fizzbuzz(n):
 			print("Buzz")
 		else:
 			print(i)
-		i+=1;
+		i+=1
 	
-v=int(input("Enter number"))
+v=(input("Enter number"))
 
 fizzbuzz(v)
